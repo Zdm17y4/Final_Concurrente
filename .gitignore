@@ -39,3 +39,4 @@ benchmark_files/
 # Temp files
 *.tmp
 *.temp
+go/worker
